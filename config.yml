@@ -12,4 +12,4 @@ branding:
 runs:
   using: 'docker'
   image: 'docker://geekodour/ghcs:0.0.4'
---state: 'Verify fixed'
+-state: 'Verify fixed'
