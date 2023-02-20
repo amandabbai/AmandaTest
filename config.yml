@@ -1,4 +1,4 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: GitHub Security Bug Bounty
     url: https://bounty.github.com/
@@ -12,3 +12,4 @@ branding:
 runs:
   using: 'docker'
   image: 'docker://geekodour/ghcs:0.0.4'
+--state: 'Verify fixed'
